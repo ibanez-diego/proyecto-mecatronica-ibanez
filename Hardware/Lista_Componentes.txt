@@ -1,0 +1,27 @@
+LISTA DE COMPONENTES DEL PROYECTO
+
+1	ESP32 DevKit V1
+2	Motor N20 con encoder
+3	Driver L298N
+4	Motor paso a paso NEMA 17
+5	Driver A4988
+6	Relé de 1 canal
+7	Cinta transportadora
+8	Fuente de alimentación 12V 5A
+9	Fuente de alimentación 24V 2A
+10	Fuente de alimentación 5V 2A
+11	Brazo robótico SCARA
+12	5 Motores paso a paso
+13	5 Drivers A4988 
+14	Finales de carrera
+15	Servo motor SG90
+16	Servo motor MG996r
+17	Cámara USB 720p
+18	PC o notebook
+19	Arduino Uno
+20	Cables Dupont macho-macho y macho-hembra
+21	Protoboard o PCB
+22	Chasis soporte y estructura mecánica
+23	Cable USB (ESP32-PC)
+24	Cable USB (Arduino Uno-PC)
+
